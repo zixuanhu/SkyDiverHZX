@@ -1,0 +1,51 @@
+h1{
+  color: blue;
+  font-size:35;
+  font-style: oblique;
+  text-align: center;
+}
+h2{
+  color: red;
+  font-size:25;
+  font-weight: bold;
+  text-align: center;
+}
+
+.CV{
+  color: green;
+  font-weight: bold;
+}
+
+.minititle{
+  color: orange;
+  font-size: 20;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.Picturetile{
+  font-size: 15;
+  color: orange;
+  font-weight: bold;
+  font-style:oblique;
+}
+
+.picture1{
+  height:300px;
+  width:400px;
+}
+.picture2{
+  height:400px;
+  width:300px;
+}
+
+body{
+  text-align: center;
+
+  background-image: url('bc.jpg');
+  background-repeat:no-repeat;
+  background-position:top,center;
+
+  background-size: 800px 350px;
+  background-color: #66FFFF ;
+}
